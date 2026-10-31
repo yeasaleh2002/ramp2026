@@ -151,3 +151,4 @@ export default function FeedbackHistoryModal({ isOpen, onClose, apiBaseUrl = 'ht
     </div>
   );
 }
+

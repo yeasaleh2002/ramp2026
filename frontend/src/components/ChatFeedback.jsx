@@ -198,3 +198,4 @@ export default function ChatFeedback({ sentence, isContested, apiBaseUrl = 'http
     </div>
   );
 }
+

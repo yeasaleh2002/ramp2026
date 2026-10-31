@@ -231,3 +231,4 @@ def predict_perspectives(text: str, show_vanilla: bool = True) -> PredictRespons
         vanilla_comparison=vanilla_comp,
         model_engine_status="RAMP26 Empirical Dual-Corpus Engine (3K + Cross-Region Aligned)"
     )
+

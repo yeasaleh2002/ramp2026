@@ -59,3 +59,4 @@ def get_syntax_details(text: str) -> Dict[str, str]:
         "target_entity": tgt,
         "target_entity_bn": target_map.get(tgt, "সাধারণ")
     }
+

@@ -62,3 +62,4 @@ def get_feedback_count() -> int:
     count = cursor.fetchone()[0]
     conn.close()
     return count
+

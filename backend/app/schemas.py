@@ -70,3 +70,4 @@ class FeedbackResponse(BaseModel):
     message: str
     feedback_id: int
     total_feedbacks: int
+

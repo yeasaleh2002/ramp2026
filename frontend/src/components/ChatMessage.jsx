@@ -215,3 +215,4 @@ export default function ChatMessage({ message, onSelectSample, apiBaseUrl }) {
     </div>
   );
 }
+

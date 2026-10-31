@@ -128,3 +128,4 @@ def get_statistics():
         "model_accuracy": "93.3%",
         "model_macro_f1": "0.923"
     }
+
